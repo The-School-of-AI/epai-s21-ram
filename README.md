@@ -1,6 +1,6 @@
 # AdvancedNumber Class Assignment
 
-![Python Tests](https://github.com/<your-username>/<repo-name>/workflows/Python%20Tests/badge.svg)
+![Python Tests](https://github.com/The-School-of-AI/epai-s21-ram/workflows/Python%20Tests/badge.svg)
 
 ## Overview
 This project implements a custom numerical type in Python called `AdvancedNumber` that demonstrates the use of Python's special methods (magic methods) to create a rich, fully-featured numeric type.
